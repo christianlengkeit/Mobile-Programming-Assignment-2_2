@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
   },
   appHeader: {
     backgroundColor: "#ffffff",
-    paddingVertical: 16,
+    paddingVertical: 40,
     paddingHorizontal: 16,
     borderBottomWidth: 1,
     borderBottomColor: "#e5e7eb",
